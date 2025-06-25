@@ -1,0 +1,9 @@
+1.) Simple Arithmetic Operation
+2.) Basic String Manipulation
+3.) Conditional Statements
+4.) Looping Constructs
+5.) Print a file to screen
+6.) Search through a file
+7.) Log aggregation
+8.) File encryption and decryption
+9.) Backup and restore files
